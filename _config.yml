@@ -8,7 +8,7 @@ course_semester: "Spring 2021"
 course_time: "Time: Mondays, Wednesdays 4:00 pm - 5:20 pm ET"
 course_location: "Location: remote-only (see Canvas for Zoom links)"
 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/sp21" # the subpath of your site, e.g. /blog/
 url: "http://learning-image-synthesis.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Carnegie Mellon University"
